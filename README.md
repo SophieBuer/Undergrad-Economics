@@ -1,2 +1,2 @@
 # Undergrad-Economics
-Amalgamation of what I learned in economics and statistics. 
+Amalgamation of what I learned in economics 
